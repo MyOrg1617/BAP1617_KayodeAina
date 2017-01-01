@@ -5,6 +5,7 @@
 <!---reponaam -->RepoNaam: BAP1617_KayodeAina
 <!---promotor -->Promotor: Tim Dams
 <!---phone -->Telefoon: 036889555
-<!---address -->Address: kiwi 69 2941 essen <!---end -->
+<!---address -->Address: kiwi 69 2941 essen 
+<!---company -->Bedrijf: VRT <!---end -->
 
 Some other info
